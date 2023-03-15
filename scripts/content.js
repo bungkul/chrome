@@ -18,5 +18,5 @@ if (article) {
   const heading = article.querySelector("h6");
   // Support for article docs with date
 
-  heading.appendChild(badge);
+  heading.appendChild=badge;
 }
